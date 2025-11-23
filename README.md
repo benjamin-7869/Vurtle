@@ -45,7 +45,7 @@ apt-get -y install php unzip git wget
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/techchipnet/hound
+git clone https://github.com/benjamin-7869/Vurtle.git
 cd Vurtle
 bash Vurtle.sh
 ```
